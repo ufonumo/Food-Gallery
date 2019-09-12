@@ -1,0 +1,13 @@
+body{
+    padding-top:70px; 
+}
+
+.jumbotron{
+    background-color: aliceblue;
+    
+
+}
+
+.navbar-light .navbar-nav>li>a{
+    color: white;
+}
